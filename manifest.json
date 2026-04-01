@@ -1,0 +1,24 @@
+{
+  "name": "KPI Rugby — URBA Top 14 2026",
+  "short_name": "KPI Rugby",
+  "description": "Dashboard de KPIs de Rugby para análisis de partidos",
+  "start_url": "./rugby_kpi_dashboard.html",
+  "display": "standalone",
+  "background_color": "#180e02",
+  "theme_color": "#f5c400",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
